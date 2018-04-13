@@ -89,10 +89,32 @@ body, html {
   transition: all ease-in-out 250ms;
 }
 
+.html5 {
+  color: #e34f26;
+}
+
 .css3 {
   padding-left: 20px;
+  color: #264de4;
+}
+
+.gittop {
+  padding-left: 20px;
+  color: #000;
 }
 
 .twitter {
   margin-left: 9px;
+}
+
+.twitterlink {
+  color: #00aced;
+}
+
+.instagramlink {
+  color: #ff0066;
+}
+
+.githublink {
+  color: #fff;
 }
