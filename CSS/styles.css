@@ -153,7 +153,7 @@ body, html {
 /*----About Me----*/
 
 .about-background {
-  background-image: url("../Pictures/roadtomountain.jpg");
+  background-image: url("../Pictures/aboutme.jpg");
   min-height: 100%;
   background-position: center;
   background-size: cover;
@@ -162,9 +162,9 @@ body, html {
 }
 
 .name {
-  top: 2%;
+  top: 6%;
+  margin-left: 37%;
   position: sticky;
-  width: 100%;
   text-align: left;
   color: #000;
   font-size: 27px;
@@ -187,13 +187,13 @@ body, html {
 
 .abouthead {
   position: absolute;
-  left: 38%;
-  top: 100px;
+  left: 36.5%;
+  top: 10%;
 }
 
 .abouthead p {
   font-size: 50px;
-  color: #000;
+  color: #333;
   text-transform: uppercase;
   letter-spacing: 5px;
 }
