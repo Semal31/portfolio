@@ -68,6 +68,13 @@ body, html {
    padding: 20px;
 }
 
+.ptext2 .border {
+   background-color: #111;
+   color: #fff;
+   padding: 30px;
+   padding-bottom: 10px;
+}
+
 .ptext .border.trans {
   background-color: transparent;
 }
@@ -141,18 +148,17 @@ body, html {
   padding-left: 20px;
 }
 
-.twitter {
-  margin-left: 9px;
-}
-
-.twitterlink {
-  color: #00aced;
-}
-
-.instagramlink {
-  color: #ff0066;
+.cpp {
+  width: 4.26em;
+  height: 4.8em;
+  margin-bottom: -11px;
+  padding-left: 20px;
 }
 
 .githublink {
+  color: #fff;
+}
+
+.linkedinlink {
   color: #fff;
 }
