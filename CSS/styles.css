@@ -133,6 +133,14 @@ body, html {
   color: #000;
 }
 
+.python {
+  padding-left: 20px;
+}
+
+.java {
+  padding-left: 20px;
+}
+
 .twitter {
   margin-left: 9px;
 }
